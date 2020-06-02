@@ -1,0 +1,7 @@
+Container contents 6 elements.
+It is bus: Size = 1, Power Engine = 1
+It is truck: Power = 2, Power Engine = 2
+It is bus: Size = 11, Power Engine = 11
+It is truck: Power = 22, Power Engine = 22
+It is truck: Power = 90, Power Engine = 90
+It is bus: Size = 100, Power Engine = 100
